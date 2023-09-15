@@ -1,0 +1,9 @@
+Item	Cost	Quantity
+sword	15	1
+mace	30	1
+shield	50	1
+potion	15	12
+cloak	24	5
+dagger	24	9
+dagger	10	2
+test	10	1
